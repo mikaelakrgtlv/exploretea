@@ -1,0 +1,25 @@
+nav{
+    color: rgb(58, 172, 134);
+    font-weight: 100;
+    font-style: normal;
+    text-align: right;
+
+}
+nav.solid {
+    border-style: solid;
+    border: 100px;
+    background-origin:border-box;
+    margin: 20px;
+    padding: auto;
+
+}
+
+footer{
+    color: rgb(58, 172, 134);
+    border: 200px;
+    background-origin: border-box;
+    margin: auto;
+    padding-bottom: 0%;
+    font-weight: 100;
+    font-style: italic;
+}
